@@ -1,0 +1,22 @@
+# Python virtual environments
+backend/.venv/
+backend/.venv_old/
+backend/venv310/
+backend/__pycache__/
+backend/integrations/__pycache__/
+
+# Node modules
+frontend/node_modules/
+
+# System files
+.DS_Store
+frontend/.DS_Store
+
+# IDE settings
+.idea/
+backend/.vscode/
+
+# Redis dump
+*.rdb
+
+test.pdf 
